@@ -16,6 +16,8 @@
 
 <img src="/lib/hellocloud.png" width="700">
 <img src="/lib/goodbyecloud.png" width="700">
+
+5，以下为在云端服务器安装的一些命令行，若不清楚，可以在lib文件夹中点开察看
 <img src="/lib/wwwcodeanywhere1.png" width="700">
 
 <img src="/lib/wwwcodeanywhere2.png" width="700">
