@@ -7,3 +7,8 @@
 <img src="/lib/goodbye_code1.png" width="700">
 <img src="/lib/hello1.png" width="700">
 <img src="/lib/goodbye1.png" width="700">
+
+###以下截图是在在codeanywhere云上部署的服务器，在云上安装好了ruby,rails,gem,sqlite等后，在浏览器访问（利用https://codeanywhere.com） 的截图结果
+
+<img src="/lib/hellocloud.png" width="700">
+<img src="/lib/goodbyecloud.png" width="700">
