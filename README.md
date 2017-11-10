@@ -2,7 +2,7 @@
 
 1，代码在app/view/say 中，名字叫做goodbye.html.erb，以及hello.html.erb，还有app/controller/say_controller.rb  这是使用名字为c的控制器运行hello以及goodbye两个动作。
 
-2，实现功能：时间显示，link其他主页，点击按钮，实现页面跳转。
+2，实现功能：时间显示，link其他主页（此次例子是link中科院大学的主页），点击按钮，实现页面跳转。
  
 3，他们的代码以及在(在本地服务器)浏览器上的运行结果如下面图的截图：
  
